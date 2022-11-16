@@ -1,10 +1,16 @@
+
 {
-"name": "http://tiny.cc/dpt0vz",
-"author": "Kopioอย่ามาแอปอ่าง",
+"name": "puyutv",
+"author": "puyu1",
 "image": "https://moviehdfree.net/wp-content/uploads/2021/05/movie-hd-free2-1.png",
-"url" : "https://pastebin.com/y48qdrR1",
-"stations": 
-[
+"url" : "https://drive.google.com/uc?export=download&id=1EvK1Hg88S_csJJ9MQ7TmcK-4nYg88eU2",
+"groups":[
+{
+"name": "puyutv",
+"author": "puyu1",
+"image": "https://moviehdfree.net/wp-content/uploads/2021/05/movie-hd-free2-1.png",
+"url" : "https://drive.google.com/file/d/1DjmFuzReh0MGoglOvbU9gnaL3TaYV2N1",
+"stations":[
 {
 "name": "ผูหญิงเหล็ก",
 "image": "https://mjj.arcanimus.xyz/file/636361b00a834Dvj/360/hls/part-3.png",
